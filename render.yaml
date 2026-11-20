@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: bus-tracking-system
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python3 -m server.app

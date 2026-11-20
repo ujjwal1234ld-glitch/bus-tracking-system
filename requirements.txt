@@ -1,0 +1,7 @@
+# Pure-Python server requires ZERO external packages (uses Python standard library).
+# Install the packages below to run the Kivy mobile app on desktop or build the APK:
+kivy>=2.2.1
+kivy_garden.mapview>=1.0.6
+requests>=2.31.0
+plyer>=2.1.0
+pillow>=10.0.0

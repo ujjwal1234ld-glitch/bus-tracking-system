@@ -1,0 +1,5 @@
+Place your compiled Android APK here as `bustracker.apk`.
+
+Once `downloads/bustracker.apk` exists on your laptop, drivers and students
+on the same Wi-Fi can open `http://<YOUR-LAPTOP-IP>:5000/download` on their
+mobile browser to download and install the app directly from your laptop.
